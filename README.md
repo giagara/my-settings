@@ -10,6 +10,12 @@
 
 [Install](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+### ESLINT JS
+
+`npm install eslint --save-dev`
+
+`npx eslint --init`
+
 ### Settings.json
 
 ```
